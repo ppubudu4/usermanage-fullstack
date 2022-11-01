@@ -1,0 +1,2 @@
+1. First goto each separate folders terminal and install node modules npm install
+2. Then goto main folder and npm run dev
